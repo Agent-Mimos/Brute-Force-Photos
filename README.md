@@ -1,4 +1,4 @@
-# Lightshot-Brute-Forcer
+# Brute-Force-Photos
 Brute forces screenshots uploaded to https://prnt.sc/.<br/> It uses proxies to prevent IP rate limits, it is nothing you have to manually import or worry about.
 
 ## How to setup
