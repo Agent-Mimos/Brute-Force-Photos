@@ -8,7 +8,13 @@ import os
 from time import sleep
 
 os.system('title [Lightshot Brute Force] - Scrape Screenshots ^| Loading...')
-print("Made By Agent Mimos#0001")
+logo = '''                                            ____ ___  ____ ___ _ ____ _   _       
+                                    [__  |__] |  |  |  | |___  \_/        
+                                    ___] |    |__|  |  | |      |         
+                                ____ ____ _  _ ____ ____ ____ ___ ____ ____ 
+                                | __ |___ |\ | |___ |__/ |__|  |  |  | |__/ 
+                                |__] |___ | \| |___ |  \ |  |  |  |__| |  \ '''
+print('%s%s' % (green(), logo))
 if not os.path.exists('Images'):
     os.makedirs('Images')
 
